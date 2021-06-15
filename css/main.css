@@ -1,1 +1,31 @@
+/*
+    Text Colors
+*/
 
+.text-red {
+    color: #EB5757;
+}
+
+.text-orange {
+    color: #F2994A;
+}
+
+.text-yellow {
+    color: #F2C94C;
+}
+
+/*
+    Background Colors
+*/
+
+.bg-red {
+    background-color: #EB5757;
+}
+
+.bg-orange {
+    background-color: #F2994A;
+}
+
+.bg-yellow {
+    background-color: #F2C94C;
+}
